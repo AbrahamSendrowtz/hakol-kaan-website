@@ -15,6 +15,6 @@ This folder is ready for GitHub plus Cloudflare Pages.
 The current site uses the public campaign number `+1 (929) 297-9785`.
 If your Telnyx campaign uses a different public number later, update it in the HTML files before submitting the campaign.
 
-## Telnyx CTA Note
+## Telnyx Disclosure Note
 
-The homepage first CTA includes the full promotional SMS/MMS consent before the button. That is intentional for carrier review.
+The homepage does not include a click-to-text SMS button. Carrier-review disclosure language lives on the collateral, terms, privacy, and proof pages.
